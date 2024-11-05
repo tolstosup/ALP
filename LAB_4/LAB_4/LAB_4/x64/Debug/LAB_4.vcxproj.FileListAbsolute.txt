@@ -1,0 +1,15 @@
+E:\Документы\pt\LAB_4\LAB_4\x64\Debug\LAB_4.vcxproj.AssemblyReference.cache
+E:\Документы\pt\LAB_4\LAB_4\x64\Debug\LAB4.LAB_4.resources
+E:\Документы\pt\LAB_4\LAB_4\x64\Debug\LAB_4.vcxproj.GenerateResource.cache
+E:\Документы\pt\LAB_4\LAB_4\x64\Debug\LAB4.ChangeByIndex.resources
+E:\Документы\pt\LAB_4\LAB_4\x64\Debug\LAB4.AddElement.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\x64\Debug\LAB_4.vcxproj.AssemblyReference.cache
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\x64\Debug\LAB4.AddElement.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\x64\Debug\LAB4.ChangeByIndex.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\x64\Debug\LAB4.LAB_4.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\x64\Debug\LAB_4.vcxproj.GenerateResource.cache
+C:\Users\Рома\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\LAB_4\x64\Debug\LAB_4.vcxproj.AssemblyReference.cache
+C:\Users\Рома\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\LAB_4\x64\Debug\LAB4.AddElement.resources
+C:\Users\Рома\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\LAB_4\x64\Debug\LAB4.ChangeByIndex.resources
+C:\Users\Рома\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\LAB_4\x64\Debug\LAB4.LAB_4.resources
+C:\Users\Рома\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №4\LAB_4\LAB_4\x64\Debug\LAB_4.vcxproj.GenerateResource.cache
