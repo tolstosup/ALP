@@ -1,0 +1,7 @@
+﻿  UnitTest.cpp
+E:\Документы\pt\LAB_1\LAB_1\Functions.h(41,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/UnitTest.cpp")
+  
+E:\Документы\pt\LAB_1\LAB_1\Functions.h(45,1): warning C4715: recursion_2: значение возвращается не при всех путях выполнения
+E:\Документы\pt\LAB_1\LAB_1\Functions.h(25,1): warning C4715: recursion_1: значение возвращается не при всех путях выполнения
+  UnitTest.vcxproj -> E:\Документы\pt\LAB_1\x64\Debug\UnitTest.dll

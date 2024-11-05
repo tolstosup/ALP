@@ -1,0 +1,2 @@
+E:\Документы\pt\LAB_1\UnitTest\x64\Release\UnitTest.vcxproj.AssemblyReference.cache
+E:\Документы\pt\LAB_1\UnitTest\x64\Release\UnitTest.vcxproj.Up2Date
