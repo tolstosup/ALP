@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(588,18): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(589,18): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(733,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(442,1): warning C4715: LAB_2::LAB_2::int_input_array: значение возвращается не при всех путях выполнения
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(495,1): warning C4715: LAB_2::LAB_2::char_input_array: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ).
+E:\Документы\pt\LAB_2\x64\Release\LAB_2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

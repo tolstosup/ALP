@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(316,1): warning C4715: LAB_2::LAB_2::int_input_array: значение возвращается не при всех путях выполнения
+E:\Документы\pt\LAB_2\LAB_2\LAB_2.h(366,1): warning C4715: LAB_2::LAB_2::char_input_array: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LAB_2.vcxproj -> E:\Документы\pt\LAB_2\Release\LAB_2.exe
