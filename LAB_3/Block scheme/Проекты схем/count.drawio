@@ -1,0 +1,130 @@
+<mxfile host="Electron" modified="2024-03-27T15:24:46.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="eVbMQSKvEEZZXcHoq6Bl" version="24.0.4" type="device">
+  <diagram name="Страница — 1" id="f5qaqixOcX6vG_OhwR0j">
+    <mxGraphModel dx="794" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="649" pageHeight="1011" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-2" target="IQkr64aqb_rOL5uMWrOt-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-2" value="count()" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-3" target="IQkr64aqb_rOL5uMWrOt-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-3" value="Инициализация переменных-счетчиков букв и цифр int_q = 0, char_q = 0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-8" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-4" target="IQkr64aqb_rOL5uMWrOt-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-44" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-4" target="IQkr64aqb_rOL5uMWrOt-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-4" value="Строка начи-&lt;br&gt;нается с &quot;Цифры&quot;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-10" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-5" target="IQkr64aqb_rOL5uMWrOt-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-5" value="Строка начи-&lt;div&gt;нается с &quot;Буквы&quot;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-9" target="IQkr64aqb_rOL5uMWrOt-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-9" value="Инициализация строковой переменной str = this-&amp;gt;text-&amp;gt;Text" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="436" width="120" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-11" value="I, I = 0, пока &lt;br&gt;i &amp;lt; длины строки str" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-12" target="IQkr64aqb_rOL5uMWrOt-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-12" value="I" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=west;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-18" value="Конец" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="360" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" target="IQkr64aqb_rOL5uMWrOt-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99.99999999999977" y="639.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-22" target="IQkr64aqb_rOL5uMWrOt-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-22" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="400" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-26" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-23" target="IQkr64aqb_rOL5uMWrOt-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-32" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-23" target="IQkr64aqb_rOL5uMWrOt-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-23" value="Символ&lt;br&gt;строки - цифра" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-27" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-24" target="IQkr64aqb_rOL5uMWrOt-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-33" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-24" target="IQkr64aqb_rOL5uMWrOt-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-24" value="Символ&lt;br&gt;строки - буква" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-28" value="А" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="940" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-30" value="Прибавить к счетчику цифр единицу" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-31" value="Прибавить к счетчику букв единицу" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-37" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-34" target="IQkr64aqb_rOL5uMWrOt-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-40" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-34" target="IQkr64aqb_rOL5uMWrOt-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-34" value="Букв больше,&lt;br&gt;&amp;nbsp;чем цифр" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-35" value="Цифр больше, &lt;br&gt;чем букв" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="360" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-38" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-20;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="IQkr64aqb_rOL5uMWrOt-35" target="IQkr64aqb_rOL5uMWrOt-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-39" value="Добаить в начало текста подстроку &quot;Буквы&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="520" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-41" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" target="IQkr64aqb_rOL5uMWrOt-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-42" value="Добаить в начало текста подстроку &quot;Цифры&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="520" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-43" value="Удалить из начала текста подстроку &quot;Цифры&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-47" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" target="IQkr64aqb_rOL5uMWrOt-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQkr64aqb_rOL5uMWrOt-48" value="Удалить из начала текста подстроку &quot;Буквы&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

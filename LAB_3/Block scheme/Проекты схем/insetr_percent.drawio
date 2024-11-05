@@ -1,0 +1,77 @@
+<mxfile host="Electron" modified="2024-03-27T15:26:01.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OJ-aFBYwnBTQnl09Dj6o" version="24.0.4" type="device">
+  <diagram name="Страница — 1" id="f5qaqixOcX6vG_OhwR0j">
+    <mxGraphModel dx="1134" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="649" pageHeight="1011" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3DjEKaqftL-jkGefp0y8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-2" target="3DjEKaqftL-jkGefp0y8-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-2" value="insert_percent()" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-6" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="160.34782608695662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-10" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-3" target="3DjEKaqftL-jkGefp0y8-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-3" value="Строка&lt;br&gt;равна &quot;?&quot;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-7" value="Добавить к строке построку &quot;%&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-8" target="3DjEKaqftL-jkGefp0y8-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-8" value="I = 0, пока I &amp;lt; (длины строки - 1)" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-12" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="399.7777777777777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-16" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-11" target="3DjEKaqftL-jkGefp0y8-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-11" value="Длина стр. &lt;br&gt;&amp;gt; 1,&lt;br&gt;&amp;nbsp;сим. != &#39;?&#39;, сл.&lt;br&gt;&amp;nbsp;сим. != &#39;%&#39;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-13" value="Вставить в стркоу следующим символом &quot;%&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-15" target="3DjEKaqftL-jkGefp0y8-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-15" value="I" style="shape=loopLimit;whiteSpace=wrap;html=1;direction=west;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-20" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-17" target="3DjEKaqftL-jkGefp0y8-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-22" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-17" target="3DjEKaqftL-jkGefp0y8-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-17" value="Строка &lt;br&gt;оканчивается &quot;?&quot;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-19" value="Добавить к строке символ &quot;%&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-21" value="this-&amp;gt;text-&amp;gt;Text = измененная строка" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-23" value="Конец" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3DjEKaqftL-jkGefp0y8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-20;entryPerimeter=0;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="3DjEKaqftL-jkGefp0y8-21" target="3DjEKaqftL-jkGefp0y8-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
