@@ -1,0 +1,42 @@
+﻿  AddElement.cpp
+  ChangeByIndex.cpp
+  LAB_6.cpp
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(359,37): warning C4244: аргумент: преобразование "wchar_t" в "T", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(359,37): warning C4244:         with
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(359,37): warning C4244:         [
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(359,37): warning C4244:             T=char
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(359,37): warning C4244:         ]
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(429,85): warning C4244: аргумент: преобразование "wchar_t" в "T", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(429,85): warning C4244:         with
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(429,85): warning C4244:         [
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(429,85): warning C4244:             T=char
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(429,85): warning C4244:         ]
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(461,58): warning C4244: аргумент: преобразование "wchar_t" в "T", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(461,58): warning C4244:         with
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(461,58): warning C4244:         [
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(461,58): warning C4244:             T=char
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\LAB_6.h(461,58): warning C4244:         ]
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(289,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(224,34): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         with
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         [
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:             T=char
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         ]
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         with
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         [
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:             T=int
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\templateStack.h(226,9): warning C4244:         ]
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\ChangeByIndex.h(264,1): warning C4715: LAB6::ChangeByIndex::check: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\ChangeByIndex.h(278,1): warning C4715: LAB6::ChangeByIndex::get_value: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\AddElement.h(200,1): warning C4715: LAB6::AddElement::check: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\AddElement.h(214,1): warning C4715: LAB6::AddElement::get_value: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\ChangeByIndex.h(264,1): warning C4715: LAB6::ChangeByIndex::check: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\ChangeByIndex.h(278,1): warning C4715: LAB6::ChangeByIndex::get_value: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\AddElement.h(200,1): warning C4715: LAB6::AddElement::check: значение возвращается не при всех путях выполнения
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\LAB_6\AddElement.h(214,1): warning C4715: LAB6::AddElement::get_value: значение возвращается не при всех путях выполнения
+  
+LAB_6.rc(52): error RC2135: file not found: C:\Users\

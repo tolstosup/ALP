@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\UnitTest\templateStackUnitTest.h(270,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\x64\Debug\UnitTest.lib и объект C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №6\LAB_6\x64\Debug\UnitTest.dll
