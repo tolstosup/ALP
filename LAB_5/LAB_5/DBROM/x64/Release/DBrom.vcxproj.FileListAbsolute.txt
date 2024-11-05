@@ -1,0 +1,8 @@
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.vcxproj.AssemblyReference.cache
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.CloseBar.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.ConnectionWindow.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.DeleteRecord.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.EditRecord.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.NewRecord.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.MainWindow.resources
+C:\Users\Роман\YandexDisk\Лабораторные работы по программированию\Лабораторная работа №5\LAB_5\DBROM\x64\Release\DBrom.vcxproj.GenerateResource.cache
